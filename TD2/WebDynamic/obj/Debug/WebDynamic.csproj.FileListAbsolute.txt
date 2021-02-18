@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\eiin839\TD2\WebDynamic\bin\Debug\WebDynamic.exe.config
+C:\Users\user\Documents\GitHub\eiin839\TD2\WebDynamic\bin\Debug\WebDynamic.exe
+C:\Users\user\Documents\GitHub\eiin839\TD2\WebDynamic\bin\Debug\WebDynamic.pdb
+C:\Users\user\Documents\GitHub\eiin839\TD2\WebDynamic\obj\Debug\WebDynamic.csprojAssemblyReference.cache
+C:\Users\user\Documents\GitHub\eiin839\TD2\WebDynamic\obj\Debug\WebDynamic.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\eiin839\TD2\WebDynamic\obj\Debug\WebDynamic.exe
+C:\Users\user\Documents\GitHub\eiin839\TD2\WebDynamic\obj\Debug\WebDynamic.pdb

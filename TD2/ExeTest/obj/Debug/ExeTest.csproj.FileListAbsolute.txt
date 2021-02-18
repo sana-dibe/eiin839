@@ -1,0 +1,6 @@
+C:\Users\user\Documents\GitHub\eiin839\TD2\ExeTest\bin\Debug\ExeTest.exe.config
+C:\Users\user\Documents\GitHub\eiin839\TD2\ExeTest\bin\Debug\ExeTest.exe
+C:\Users\user\Documents\GitHub\eiin839\TD2\ExeTest\bin\Debug\ExeTest.pdb
+C:\Users\user\Documents\GitHub\eiin839\TD2\ExeTest\obj\Debug\ExeTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\eiin839\TD2\ExeTest\obj\Debug\ExeTest.exe
+C:\Users\user\Documents\GitHub\eiin839\TD2\ExeTest\obj\Debug\ExeTest.pdb

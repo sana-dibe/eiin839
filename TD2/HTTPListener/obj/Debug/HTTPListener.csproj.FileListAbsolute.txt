@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\eiin839\TD2\HTTPListener\bin\Debug\HTTPListener.exe.config
+C:\Users\user\Documents\GitHub\eiin839\TD2\HTTPListener\bin\Debug\HTTPListener.exe
+C:\Users\user\Documents\GitHub\eiin839\TD2\HTTPListener\bin\Debug\HTTPListener.pdb
+C:\Users\user\Documents\GitHub\eiin839\TD2\HTTPListener\obj\Debug\HTTPListener.csprojAssemblyReference.cache
+C:\Users\user\Documents\GitHub\eiin839\TD2\HTTPListener\obj\Debug\HTTPListener.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\eiin839\TD2\HTTPListener\obj\Debug\HTTPListener.exe
+C:\Users\user\Documents\GitHub\eiin839\TD2\HTTPListener\obj\Debug\HTTPListener.pdb
